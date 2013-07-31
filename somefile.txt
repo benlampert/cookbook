@@ -1,0 +1,14 @@
+this is an amazing example file for python
+this is sort of cool
+python on line 3
+
+python on line 5
+
+this is a line on 8
+
+this is python on the next line
+
+example python five
+
+example python six
+
